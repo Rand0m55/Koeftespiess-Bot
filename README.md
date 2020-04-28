@@ -1,0 +1,2 @@
+# Koeftespiess-Bot
+Koeftespiess
